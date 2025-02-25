@@ -1,0 +1,4 @@
+Name: VINAYAK, Age: 20, Weight:70kg
+Date: 2025-02-20, Exercise: pushups, Duration: 20 mins, Calories: 230 kcal
+Name: Vinayak, Age: 20, Weight:70kg
+Date: 2025-02-20, Exercise: Squats, Duration: 5 mins, Calories: 90 kcal
